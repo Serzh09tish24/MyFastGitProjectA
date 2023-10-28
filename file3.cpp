@@ -2,6 +2,8 @@
 
 int main(int argc, char*argv[])
 {
+    int m = 15;
+
     int n = 10;
     for(size_t i{0}; i != n; ++i)
     {
